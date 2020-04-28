@@ -1,2 +1,3 @@
 # testmyfile
-my hello world is my first file.
+import cv2
+photo=cv2.VideoCapture(0)
